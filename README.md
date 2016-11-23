@@ -1,2 +1,2 @@
-# 3D-printers
-Configurations for our machines
+# Machines
+Configurations for our machines.
