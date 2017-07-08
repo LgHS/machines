@@ -1,1 +1,6 @@
 .DS_Store
+
+# Ignore all Marlin files except for configuration
+3D-printers/**/marlin/*
+3D-printers/**/Marlin/*
+!Configuration.h
