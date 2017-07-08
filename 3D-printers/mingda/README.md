@@ -1,7 +1,7 @@
 ## OpenSCAD Files
 
-`scad/board_adapter.scad` holder for the Megatronics controller
-`scad/probe_adapter.scad` holder for Z-probe on extruder
+* `scad/board_adapter.scad` holder for the Megatronics controller
+* `scad/probe_adapter.scad` holder for Z-probe on extruder
 
 ## Marlin EEPROM settings
 
