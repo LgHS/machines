@@ -4,3 +4,4 @@
 3D-printers/**/marlin/*
 3D-printers/**/Marlin/*
 !Configuration.h
+!Configuration_adv.h
