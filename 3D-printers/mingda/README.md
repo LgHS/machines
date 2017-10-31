@@ -24,4 +24,5 @@ echo:  M301 P22.20 I1.08 D114.00
 echo:Filament settings: Disabled
 echo:  M200 D3.00
 echo:  M200 D0
+echo:  M851 Z-1.80
 ```
